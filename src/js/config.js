@@ -1,0 +1,1 @@
+const mynum = 0
