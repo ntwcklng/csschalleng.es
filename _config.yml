@@ -9,6 +9,8 @@ exclude:
   - src/
   - Gulpfile.js
   - package.json
+  - Gemfile
+  - Gemfile.lock
 include:
   - dist/
 permalink: "/:categories/:title/"
