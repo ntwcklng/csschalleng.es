@@ -3,7 +3,7 @@ title: CSSChalleng.es
 email: ntwcklng@gmail.com
 description: Enhance your CSS Skills!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://csschalleng.es" # the base hostname & protocol for your site
+url: "http://ntwcklng.github.io/csschalleng.es" # the base hostname & protocol for your site
 exclude:
   - node_modules/
   - src/
